@@ -1,4 +1,5 @@
 #dupe eliminator
+#following https://benhoyt.com/writings/duplicate-image-detection/
 #adapted from dschultz's dataset-tools
 #now it doesn't really fit anymore
 #to install dependencies run this command:
